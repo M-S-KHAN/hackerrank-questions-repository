@@ -5,7 +5,7 @@ def minion_game(string):
     player2 = 0;
     str_len = len(string)
     for i in range(str_len):
-        if s[i] in "AEIOU":
+        if string[i] in "AEIOU":
             player1 += (str_len)-i
         else :
             player2 += (str_len)-i
