@@ -1,5 +1,6 @@
 
 def parse_input():
+    # A function to parse the input
     num_of_cubes = int(input())
     cubes = [int(i) for i in input().split()]
     return num_of_cubes, cubes    
