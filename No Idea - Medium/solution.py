@@ -1,7 +1,11 @@
+## Taking and parsing all the inputs
 n, m = [int(i) for i in input().split()]
 arr = [int(i) for i in input().split()]
 A = set([int(i) for i in input().split()])
 B = set([int(i) for i in input().split()])
+
+
+## The Actual Logic
 
 total = 0
 
