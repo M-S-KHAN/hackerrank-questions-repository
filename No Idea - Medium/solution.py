@@ -5,7 +5,7 @@ A = set([int(i) for i in input().split()])
 B = set([int(i) for i in input().split()])
 
 
-## The Actual Logic
+## The Actual Logic to solve the question
 
 total = 0
 
