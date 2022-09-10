@@ -6,6 +6,7 @@ B = set([int(i) for i in input().split()])
 
 
 ## The Actual Logic to solve the question
+## This won't be the case for most questions
 
 total = 0
 
