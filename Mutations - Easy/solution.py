@@ -1,3 +1,4 @@
+# The actual function to solve the question
 def mutate_string(string, position, character):
     chars = []
     is_inserted = False
