@@ -1,3 +1,4 @@
+## This is where the actual Solution resides!
 def merge_the_tools(string, k):
     if k == 1:
         for i in range(len(string)):
